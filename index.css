@@ -11,10 +11,9 @@ body{
 .container{
     position: relative;
     background-color: white;
-    width: 35%;
-    margin-top: 25%;
+    margin-top: 27vh;
+    width: 15%;
     border-radius: 20px;
-
 }
 .container #img{
     width: 90%;
